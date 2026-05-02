@@ -11,7 +11,7 @@ if [ -z "$1" ]; then
   echo "Usage: ./new_project.sh \"My Game Name\" [target_directory]"
   echo ""
   echo "Examples:"
-  echo "  ./new_project.sh \"The Royal Gambit\""
+  echo "  ./new_project.sh \"My First VN\""
   echo "  ./new_project.sh \"My VN\" ../my-vn/game"
   exit 1
 fi
