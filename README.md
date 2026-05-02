@@ -1,6 +1,6 @@
 # renpy-boilerplate
 
-Quick-start template for Ren'Py 8.x visual novels. Strips out the default placeholder cruft so you can start writing immediately.
+Quick-start template for Ren'Py 8.5+ visual novels. Strips out the default placeholder cruft so you can start writing immediately.
 
 ## Usage
 
